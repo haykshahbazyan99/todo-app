@@ -2,12 +2,15 @@ package com.hayk.todolist.service;
 
 import com.hayk.todolist.model.ToDoItem;
 import com.hayk.todolist.repository.TodoRepository;
+import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
 
 @Service
+@AllArgsConstructor
 public class TodoService {
 
     @Autowired
