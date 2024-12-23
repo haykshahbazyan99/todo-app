@@ -15,13 +15,6 @@ The application allows users to manage their todo items, including creating, rea
 
 Check the database configurations on applications.properties
 
-## How to Run
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/todo-app.git
-
-
 ## API Endpoints
 - GET /api/todos: Get all todos.
 - GET /api/todos/{id}: Get a todo by ID.
