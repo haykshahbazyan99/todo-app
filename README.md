@@ -29,25 +29,4 @@ Check the database configurations on applications.properties
 - PUT /api/todos/{id}: Update an existing todo.
 - DELETE /api/todos/{id}: Delete a todo.
 
-##  Was it easy to complete the task using AI?
-
-Yes, it was relatively easy to complete the task using AI. The instructions were clear, and the AI model generated the required code effectively.
-As you can check that out on chat.log file.
-
-##  How long did task take you to complete?
-
-For this project, it took 3 hours.
-
-##  Was the code ready to run after generation? What did you have to change to make it usable?
-
-No it became runnable after some adjustments. Properties, configurations and package structures needed to be changed in order to become usable.
-
-##  Which challenges did you face during completion of the task?
-
-Installation failures.
-
-## Which specific prompts you learned as a good practice to complete the task?
-
-The most interesting prompt was about git command and repos, which really lightened up my life.
-
 
